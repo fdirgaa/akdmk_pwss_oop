@@ -54,6 +54,15 @@ INSERT INTO `categories` (`id`, `name`, `created`, `modified`) VALUES
 (3, 'Motors', '2014-06-01 00:35:07', '2014-05-30 17:34:54');
 ```
 
+---
+> **NOTES**  
+Jika kalian ingin melihat per sequence silahkan melakukan checkout ke commit sebelumnya dengan memanfaatkan ```git log --oneline``` dan ```git checkout [log id]```
+
+![Img Checkout commit](/ss.png)
+
+---
+
+
 # **CREDITS**
 > Setiap source code yang ada pada repo ini pelajari dari halaman [**Code of Ninja**](https://www.codeofaninja.com/2014/06/php-object-oriented-crud-example-oop.html) sebagai bahan pembelajaran Object-Oriented Programming PHP.
 
